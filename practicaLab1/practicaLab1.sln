@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicaLab1", "practicaLab1\practicaLab1.csproj", "{32D8F5DB-707D-4FE1-AEFD-1703FA3C0B34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicaLab1WCF", "practicaLab1WCF\practicaLab1WCF.csproj", "{29BE04C4-DEC6-4A9D-AEB9-5985918ECF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicaLab1Test", "practicaLab1Test\practicaLab1Test.csproj", "{875DFA7B-2221-4DF7-B298-D51CBB5D15FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{32D8F5DB-707D-4FE1-AEFD-1703FA3C0B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32D8F5DB-707D-4FE1-AEFD-1703FA3C0B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32D8F5DB-707D-4FE1-AEFD-1703FA3C0B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BE04C4-DEC6-4A9D-AEB9-5985918ECF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BE04C4-DEC6-4A9D-AEB9-5985918ECF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BE04C4-DEC6-4A9D-AEB9-5985918ECF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BE04C4-DEC6-4A9D-AEB9-5985918ECF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875DFA7B-2221-4DF7-B298-D51CBB5D15FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875DFA7B-2221-4DF7-B298-D51CBB5D15FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875DFA7B-2221-4DF7-B298-D51CBB5D15FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875DFA7B-2221-4DF7-B298-D51CBB5D15FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
